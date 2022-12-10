@@ -1,6 +1,6 @@
 # File Metadata Microservice
 
-This is a simple web app to get metadata from an uploaded file.
+This is a simple microservice to get metadata from an uploaded file.
 
 - Upload the file to the web app
 - The provided JSON includes metadata:
@@ -8,4 +8,4 @@ This is a simple web app to get metadata from an uploaded file.
   - type
   - size
   
-Link to the File Metadata web app: https://b-end-fcc-file-meta.ricky-kiva.repl.co/
+Link to the File Metadata microservice: https://b-end-fcc-file-meta.ricky-kiva.repl.co/
