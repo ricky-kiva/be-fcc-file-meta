@@ -8,4 +8,4 @@ This is a simple microservice to get metadata from an uploaded file.
   - type
   - size
   
-Link to the File Metadata microservice: https://b-end-fcc-file-meta.ricky-kiva.repl.co/
+[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://b-end-fcc-file-meta.ricky-kiva.repl.co/)
